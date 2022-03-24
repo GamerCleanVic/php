@@ -7,7 +7,7 @@
 <title>TABUADA WEB</title>
 </head>
 <body>
-<h1>DIGITE UM NÚMERO INTEIRO</h1>
+<h1 class="hOne">DIGITE UM NÚMERO INTEIRO</h1>
 <!-- RISCO DE INJECT (NÃO SEI FAZER AINDA CONDIÇÕES PARA != DE NºS OU PARA CAMPO EM BRANCO) -->
 <form method="post" action="" class="form1">
 <input type="text" id="a" name="a" class="caixa1">
